@@ -15,8 +15,9 @@ src="https://github.com/Kunal035/DBMS_Property_Rental_Agency/assets/72664281/811
 # Relations
 <br>
 <img width="518" alt="250277035-b07452a9-4d64-4db7-ab47-48a3bb4401ae" 
-src="https://github.com/Kunal035/DBMS_Property_Rental_Agency/assets/72664281/172f966e-8e5d-4278-bf83-f49d32b5bc6f">
+src="https://github.com/Kunal035/DBMS_Property_Rental_Agency/assets/72664281/adfdebe7-b72d-4b02-8e49-8011b96b0bcd">
 <br>
 <img width="518" alt="250277035-b07452a9-4d64-4db7-ab47-48a3bb4401ae" 
-src="https://github.com/Kunal035/DBMS_Property_Rental_Agency/assets/72664281/adfdebe7-b72d-4b02-8e49-8011b96b0bcd">
+src="https://github.com/Kunal035/DBMS_Property_Rental_Agency/assets/72664281/172f966e-8e5d-4278-bf83-f49d32b5bc6f">
+
 
