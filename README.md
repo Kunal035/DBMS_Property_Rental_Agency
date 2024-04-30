@@ -1,23 +1,21 @@
-# DBMS_Property_Rental_Agency
-SQL and PL/SQL for mediation between tenants and owners.
+# Database for a property rental agency
 
-1. The DBA can add users to the database with the required permissions.
-2. Managers can edit any property details.
-3. Owners are allowed to modify their respective property records.
-4. Reports can be generated for rental history, available properties based on specific criteria, and to verify the status of a property.
+Focuses on developing a relational database for a property using PL/SQL, with provisions for different kinds of users and varied access control
 
-# ER Diagram
-<br>
-<img width="518" alt="250277035-b07452a9-4d64-4db7-ab47-48a3bb4401ae" 
-src="https://github.com/Kunal035/DBMS_Property_Rental_Agency/assets/72664281/81118116-f715-437d-8347-8b3799377b98">
-<br>
+## Project Overview
 
-# Relations
-<br>
-<img width="518" alt="250277035-b07452a9-4d64-4db7-ab47-48a3bb4401ae" 
-src="https://github.com/Kunal035/DBMS_Property_Rental_Agency/assets/72664281/adfdebe7-b72d-4b02-8e49-8011b96b0bcd">
-<br>
-<img width="518" alt="250277035-b07452a9-4d64-4db7-ab47-48a3bb4401ae" 
-src="https://github.com/Kunal035/DBMS_Property_Rental_Agency/assets/72664281/172f966e-8e5d-4278-bf83-f49d32b5bc6f">
+The database has the following functionalities.
 
+- Adding user to the database by DBA with necessary privileges.
+- Allowing Managers to modify any property record.
+- Allowing owners to modify their own property records.
+- Generate reports pertaining to the rental history of properties, available properties given certain criteria, and verify a properties status.
+  
+## ER Model
+<img width="518" alt="Screenshot 2023-07-01 at 6 44 22 PM" src="https://github.com/arjunk1206/DBMSAssignment/assets/108979894/b07452a9-4d64-4db7-ab47-48a3bb4401ae">
 
+## Tables
+
+<img width="557" alt="Screenshot 2023-07-01 at 6 46 36 PM" src="https://github.com/arjunk1206/DBS-Property-Rental-Agency/assets/108979894/dad64056-f305-4f8b-a445-e29c05231eec">
+
+<img width="528" alt="Screenshot 2023-07-01 at 6 47 42 PM" src="https://github.com/arjunk1206/DBS-Property-Rental-Agency/assets/108979894/56b13667-d6d4-4d53-9cc9-4ceb8724beb4">
